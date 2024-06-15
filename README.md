@@ -26,3 +26,5 @@ flutter pub get
 ```
 flutter run
 ```
+
+Aaaand you're done! You may now enjoy the social media app Connectify! :)
