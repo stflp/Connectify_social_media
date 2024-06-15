@@ -25,4 +25,4 @@ flutter pub get
 4. Select the device (your Android emulator) and run the app
 ```
 flutter run
-``
+```
