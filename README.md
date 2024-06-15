@@ -1,16 +1,28 @@
-# social_media_app
+# Connectify social media
 
-A new Flutter project.
+This is a minimalist, modern social media app called Connectify, developed using Flutter and Firebase for database management. Prepare to enter a new digital space where you can post to your heart's content, interact with anyone from all parts of the world and connect with your friends!
 
-## Getting Started
+## Installation guide
 
-This project is a starting point for a Flutter application.
+Before using this, you will require VS Code and Flutter and an Android VM installed on your device.
+Once you do, you may begin with the following steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository
+```
+git clone https://github.com/stflp/Connectify_social_media.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Navigate to the project's directory
+```
+cd Connectify_social_media
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Install all the necesarry dependencies
+```
+flutter pub get
+```
+
+4. Select the device (your Android emulator) and run the app
+```
+flutter run
+``
