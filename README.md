@@ -12,7 +12,17 @@ This is a minimalist, modern social media app called Connectify, developed using
 + Follow and unfollow whoever you wish!
 + Switch between dark mode and light mode, depending on your personal preference!
 
-![Main Feed](https://i.imgur.com/Kv6Yjyh.png)
+<div align="center">
+<img src="https://i.imgur.com/Kv6Yjyh.png" width="204" height="432"/>
+
+  <img src="https://i.imgur.com/Q6BUxCT.png" width="204" height="432"/>
+  <div align="center">
+
+  <div align="center">
+  <img src="https://i.imgur.com/eeOzWXw.png" width="204" height="432"/>
+  
+  <img src="https://i.imgur.com/LT4nLqn.png" width="204" height="432"/>
+</div>
 
 ## Installation guide
 
